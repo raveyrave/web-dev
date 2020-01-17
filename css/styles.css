@@ -1,0 +1,183 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'EB Garamond', serif;
+  font-size: 1.27rem;
+  color: #40514E;
+
+}
+
+h1 {
+  color: #63b7af;
+  font-family: 'Parisienne', cursive;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+
+}
+
+h2{
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 2.5rem;
+  color: #63b7af;
+}
+
+h3{
+  font-family: 'Roboto Condensed', sans-serif;
+  color: #ee8572;
+  font-size: 1.75rem;
+}
+
+a{
+  color: #63b7af;
+}
+
+
+span{
+  text-decoration: underline;
+}
+
+hr{
+  border-style: dotted;
+  width:4%;
+  border-top-width: 5px;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  color: grey;
+  margin: 0 auto;
+
+}
+
+p{
+  line-height: 2;
+}
+
+.top-container{
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+}
+
+.programmer{
+  line-height: 2;
+  font-weight: normal;
+}
+
+.profile{
+  margin:100px auto;
+}
+.profile-description {
+  width: 35%;
+  margin: auto;
+  text-align: center;
+}
+
+.my-skills{
+  margin-bottom: 0;
+  margin-top: 100px;
+}
+.skill-row {
+  width: 50%;
+  margin: 70px auto 100px auto;
+  text-align: left;
+}
+
+.head{
+  margin-bottom: 0;
+}
+
+.head-description {
+  margin-top: 5px;
+}
+
+.contact-me {
+  width: 40%;
+  margin: 100px auto;
+}
+.contact-message{
+  margin-bottom: 30px;
+}
+
+
+.btn{
+  background-color: #ee8572;
+  text-decoration: none;
+  color: #EAF6F6;
+  font-weight: bold;
+  font-size: 18px;
+  border-radius: 8px;
+  padding: 10px 24px;
+  margin: 20px auto;
+  display: inline-block;
+  font-family: 'EB Garamond', serif;
+
+}
+
+.btn:hover{
+  background-color:#63b7af;
+}
+.bottom-container {
+  background-color: #EAF6F6;
+  padding-top: 30px;
+  padding-bottom: 30px;
+
+}
+
+.footer-link {
+  line-height: 2;
+  margin:20px 20px;
+  text-decoration: none;
+  font-weight: bold;
+  font-family: 'EB Garamond', serif;
+
+}
+.footer-link:hover{
+  color: grey;
+}
+.copyright {
+color: grey;
+font-size:0.75rem;
+padding-top: 20px;
+
+
+}
+
+.profile-pic{
+  width: 15%;
+}
+.bottom-cloud{
+  position: absolute;
+  bottom:300px;
+  left:250px;
+}
+
+.top-cloud{
+  position: absolute;
+  top:40px;
+  right:300px;
+}
+
+.mountain {
+  height: 300px;
+  width: 570px;
+}
+
+.design{
+  width: 30%;
+  float: left;
+  margin-right: 30px;
+  border-radius: 100%;
+  background-color: #EAF6F6;
+
+}
+.web-dev{
+  width: 30%;
+  float: right;
+  margin-left: 30px;
+  border-radius: 100%;
+  background-color: #EAF6F6;
+}
+.profile-pic{
+  border-radius: 100%;
+
+}
