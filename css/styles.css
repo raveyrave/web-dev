@@ -147,14 +147,14 @@ padding-top: 20px;
 }
 .bottom-cloud{
   position: absolute;
-  bottom:300px;
-  left:250px;
+  bottom:18.75rem;
+  left:15.625rem;
 }
 
 .top-cloud{
   position: absolute;
-  top:40px;
-  right:300px;
+  top:2.5rem;
+  right:18.75rem;
 }
 
 .mountain {
